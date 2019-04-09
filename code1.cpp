@@ -4,7 +4,7 @@
 
 
 using namespace std;
-// Interval for the problem is assumed to be [1 , 1]
+// Interval for the problem is assumed to be [-1 , 1]
 // Degree of polynomial is taken to be 2.
 
 double zeta[3];					// Chebyshev Nodes
